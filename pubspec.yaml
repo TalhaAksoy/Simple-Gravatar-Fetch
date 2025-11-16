@@ -1,6 +1,6 @@
 name: simple_gravatar_fetch
 description: Basic Packafge For Get User Profile Pricture Or Profile Info From Gravatar.
-version: 2.0.4
+version: 2.0.4+1
 repository: https://github.com/TalhaAksoy/Flutter-Gravatar
 # repository: https://github.com/my_org/my_repo
 
