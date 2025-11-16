@@ -1,3 +1,3 @@
-## 2.0.4
+## 2.0.4+1
 
-- Change Name
+- rewrite some info on readme.md
