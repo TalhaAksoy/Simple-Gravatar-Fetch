@@ -1,4 +1,4 @@
-## 1.0.0
+## 2.0.3
 
 - Initial version.
 - getGravatarProfile function added , return all gravatar profile data

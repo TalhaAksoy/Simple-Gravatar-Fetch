@@ -1,6 +1,7 @@
 name: flutter_gravatar
 description: Basic Packafge For Get User Profile Pricture Or Profile Info From Gravatar.
-version: 1.0.0
+version: 2.0.3
+repository: https://github.com/TalhaAksoy/Flutter-Gravatar
 # repository: https://github.com/my_org/my_repo
 
 environment:
